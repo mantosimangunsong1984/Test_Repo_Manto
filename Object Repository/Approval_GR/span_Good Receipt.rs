@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Good Receipt</name>
+   <tag></tag>
+   <elementGuidId>23a88a7d-3358-461b-a1b6-ad96244d837f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_header_menu']/div[4]/div/div[5]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\#kt_header_menu&quot;] >> internal:role=link[name=&quot; Good Receipt&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e664f6f8-61da-4118-8c1e-1a2830e8ae71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>2d28ebaf-e611-4268-a059-a4c207abdd12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Good Receipt</value>
+      <webElementGuid>088fabf7-a835-4f04-8c52-33c5cce68b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_header_menu&quot;)/div[@class=&quot;menu-item menu-lg-down-accordion me-lg-1 show menu-dropdown&quot;]/div[@class=&quot;menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-rounded-0 py-lg-4 w-lg-225px show&quot;]/div[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link  py-3&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>acef4d79-6305-4ace-8de5-82317fd42c4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_header_menu']/div[4]/div/div[5]/a/span[2]</value>
+      <webElementGuid>0980598d-7040-4753-98df-daf7417e60bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Order'])[3]/following::span[4]</value>
+      <webElementGuid>877d20c6-6b17-4424-8fa3-d4212c4004a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outline Agreement Umbrella'])[1]/following::span[8]</value>
+      <webElementGuid>fef628b4-6003-4ea0-aa58-bf8cd01e1112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good Movement'])[2]/preceding::span[4]</value>
+      <webElementGuid>460b9119-1245-43cb-819d-76d6edfecf2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Registration Approval'])[1]/preceding::span[8]</value>
+      <webElementGuid>7c7793ac-c2a9-49fb-a72a-f8a03eeacc59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[5]/a/span[2]</value>
+      <webElementGuid>53b9c38a-ef04-44c4-87e3-c62490f357ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Good Receipt' or . = 'Good Receipt')]</value>
+      <webElementGuid>db23d850-d8a2-454e-96b5-3700e99013a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Download_Template</name>
+   <tag></tag>
+   <elementGuidId>8d8a5ee2-8011-4480-95b9-75801b93690b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fs-6.text-gray-700 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_modal_new_address_scroll']/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Download Template&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2aa7e5e7-507e-4677-853f-5109fd4fdf66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test-eprocurement.mmsgroup.co.id/template/import/template_employee.xlsx</value>
+      <webElementGuid>b9773c62-2033-4114-b6b1-8ca0025e7238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>download</name>
+      <type>Main</type>
+      <value>template_employee.xlsx</value>
+      <webElementGuid>64fa1ba3-a068-4f88-80e0-0e038a10b98f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download Template</value>
+      <webElementGuid>2118921a-0cbf-48a0-840d-465b262d9940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_modal_new_address_scroll&quot;)/div[@class=&quot;notice d-flex bg-light-warning rounded border-warning border border-dashed mb-9 p-6&quot;]/div[@class=&quot;d-flex flex-stack flex-grow-1&quot;]/div[@class=&quot;fw-bold&quot;]/div[@class=&quot;fs-6 text-gray-700&quot;]/a[1]</value>
+      <webElementGuid>6d7ca6c0-e5cb-4182-bfb6-292a40725090</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_modal_new_address_scroll']/div/div/div/div/a</value>
+      <webElementGuid>c1b8dabf-0e57-4dd9-9ddf-c63580744d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Download Template')]</value>
+      <webElementGuid>e3e60103-e4dd-4732-8c3c-461c7d6a3f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[1]/following::a[1]</value>
+      <webElementGuid>2800b489-8e61-4100-92ed-5cdc24acbdb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::a[1]</value>
+      <webElementGuid>ceb7c08a-f4b8-405f-b4f3-d54662a761d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download Template']/parent::*</value>
+      <webElementGuid>cfa95443-af3d-4094-9b19-47e6fe4209fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://test-eprocurement.mmsgroup.co.id/template/import/template_employee.xlsx')]</value>
+      <webElementGuid>f76f5e86-506a-4f0b-bf45-e31bf7ab6fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/div/div/a</value>
+      <webElementGuid>8d414e55-0559-432b-b99c-16e965ce58e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://test-eprocurement.mmsgroup.co.id/template/import/template_employee.xlsx' and (text() = 'Download Template' or . = 'Download Template')]</value>
+      <webElementGuid>c2fb78b4-6765-4b21-8d2b-d9751cd22f1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

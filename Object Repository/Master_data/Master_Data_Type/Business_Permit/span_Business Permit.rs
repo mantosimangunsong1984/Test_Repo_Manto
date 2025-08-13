@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Business Permit</name>
+   <tag></tag>
+   <elementGuidId>00cd75cc-ed2d-476f-b7e8-9319d7f27128</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_header_menu']/div[3]/div/div/div/div[5]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Business Permit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>63957c8c-a9e8-45de-9dc7-0d3376b695ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>86b83e2b-fa7b-42b5-98a2-00f4fffb5fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business Permit</value>
+      <webElementGuid>f5ac5f0f-fa55-4f74-944a-fa893afca35f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_header_menu&quot;)/div[@class=&quot;menu-item menu-lg-down-accordion me-lg-1 show menu-dropdown&quot;]/div[@class=&quot;menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-rounded-0 py-lg-4 w-lg-225px show&quot;]/div[@class=&quot;menu-item menu-lg-down-accordion show menu-dropdown&quot;]/div[@class=&quot;menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-active-bg py-lg-4 w-lg-225px show&quot;]/div[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link  py-3&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>9160daf4-a7e7-4cbe-a8b0-140b242abfb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_header_menu']/div[3]/div/div/div/div[5]/a/span[2]</value>
+      <webElementGuid>645ebf25-cb07-440e-aee5-8623f4784129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Fields'])[1]/following::span[3]</value>
+      <webElementGuid>faced458-9101-4caa-acf8-a3f39a4cb43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Term Of Payment Vendor'])[1]/following::span[6]</value>
+      <webElementGuid>c709f008-cebf-4054-82b5-0b4f1d033b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Type'])[1]/preceding::span[3]</value>
+      <webElementGuid>03d36807-e5af-467c-ad59-90bb56ac6ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank'])[1]/preceding::span[6]</value>
+      <webElementGuid>5f33ac68-afe5-4382-9e29-5c594fca2ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Business Permit']/parent::*</value>
+      <webElementGuid>77d6a07b-2750-4c4f-a90f-63949ca16859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[5]/a/span[2]</value>
+      <webElementGuid>9ae28774-047b-48cd-9b36-9f64dc914634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Business Permit' or . = 'Business Permit')]</value>
+      <webElementGuid>9e098e25-2376-4aa1-ab9f-793f9f5beab9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Material Group</name>
+   <tag></tag>
+   <elementGuidId>3208231d-5d14-4914-878f-e43aed7afad6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_header_menu']/div[3]/div/div[3]/div/div[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Material Group&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>187be99d-1424-40ef-a650-cf8510b94c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>49cf58ab-fc0c-45b7-8954-f0c241d75cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Material Group</value>
+      <webElementGuid>58aaff0b-7733-4c4d-bf84-1a8faa1283b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_header_menu&quot;)/div[@class=&quot;menu-item menu-lg-down-accordion me-lg-1 show menu-dropdown&quot;]/div[@class=&quot;menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-rounded-0 py-lg-4 w-lg-225px show&quot;]/div[@class=&quot;menu-item menu-lg-down-accordion show menu-dropdown&quot;]/div[@class=&quot;menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-active-bg py-lg-4 w-lg-225px show&quot;]/div[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link  py-3&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>669e3cf5-f3c2-41cc-96c9-0fb55e25f3ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_header_menu']/div[3]/div/div[3]/div/div[2]/a/span[2]</value>
+      <webElementGuid>e6309e61-e392-4e5b-8a62-e1f2654f2927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UoM'])[1]/following::span[3]</value>
+      <webElementGuid>4865cca6-4515-454a-9adf-9d2e17bc6371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Material Item'])[1]/following::span[7]</value>
+      <webElementGuid>792f911b-ee82-4522-b296-e3b56c98ad99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Material Code'])[1]/preceding::span[3]</value>
+      <webElementGuid>f45dc3b0-8947-49c9-babe-69d2826b9868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GL Account'])[1]/preceding::span[6]</value>
+      <webElementGuid>dfeca08a-dd6c-4d9d-8257-e85e05bb74cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Material Group']/parent::*</value>
+      <webElementGuid>765cb2f5-05d4-43d6-9d40-54cc2bed2fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/a/span[2]</value>
+      <webElementGuid>f275c79c-970e-4452-a918-6e274645699e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Material Group' or . = 'Material Group')]</value>
+      <webElementGuid>7157371d-13a3-47b7-b0b9-1ed288d23f63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

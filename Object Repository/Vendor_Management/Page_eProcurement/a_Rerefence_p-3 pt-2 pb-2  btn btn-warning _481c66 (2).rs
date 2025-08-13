@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rerefence_p-3 pt-2 pb-2  btn btn-warning _481c66 (2)</name>
+   <tag></tag>
+   <elementGuidId>6616bc36-ce22-45a7-828c-62a4ba91c763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='kt_datatable_example_1']/tbody/tr/td/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.p-3.pt-2.pb-2.btn.btn-warning.btn-sm.ml-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>176c479b-e178-4941-9ebe-3e4d0d60cc3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>f76457c3-8625-4bba-8e01-a28fdafb9e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://test-eprocurement.mmsgroup.co.id/vendor_registration/draft/edit/2e325265-85b8-4a0e-9ac3-6f19740623d6/general</value>
+      <webElementGuid>7401dcf6-ec35-44b8-908a-3d2a04073b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-3 pt-2 pb-2  btn btn-warning btn-sm ml-2</value>
+      <webElementGuid>5c61b3df-bfcf-4087-ad8b-2cd7617a64ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_datatable_example_1&quot;)/tbody[@class=&quot;text-gray-600 fw-bold&quot;]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/a[@class=&quot;p-3 pt-2 pb-2  btn btn-warning btn-sm ml-2&quot;]</value>
+      <webElementGuid>e18cea55-6f2b-42b8-92d0-5de36e13a969</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_datatable_example_1']/tbody/tr/td/div[2]/a</value>
+      <webElementGuid>4bbd3d4c-8c7c-410f-acfa-c95834ab7f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rerefence'])[3]/following::a[1]</value>
+      <webElementGuid>3cc04fef-d969-4800-8519-f03032e43aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[3]/following::a[1]</value>
+      <webElementGuid>2af37d27-ce76-4f13-a780-a99151a4acd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VS-00001301'])[1]/preceding::a[1]</value>
+      <webElementGuid>f6991c62-e9bc-48da-8870-5965bdd77a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Rekanan 16'])[1]/preceding::a[1]</value>
+      <webElementGuid>e7e67b02-3004-4394-a001-3926e379a9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://test-eprocurement.mmsgroup.co.id/vendor_registration/draft/edit/2e325265-85b8-4a0e-9ac3-6f19740623d6/general']</value>
+      <webElementGuid>94e5052e-4039-41ec-90cd-11394ac9fe70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div[2]/a</value>
+      <webElementGuid>8b2d8f1f-6cb6-4ad7-9920-0fbed25e9459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Edit' and @href = 'http://test-eprocurement.mmsgroup.co.id/vendor_registration/draft/edit/2e325265-85b8-4a0e-9ac3-6f19740623d6/general']</value>
+      <webElementGuid>3f08f87b-9cd3-473e-9fbf-e04ec7e7bf73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

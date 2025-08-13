@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Address_desc</name>
+   <tag></tag>
+   <elementGuidId>48c244fb-54cd-4dc0-bf47-3fc7fa0f01ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='address']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#address</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>57b4dee3-5cfc-42c4-b507-92b3f277fa48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-solid  </value>
+      <webElementGuid>69e58799-a2d5-4dd2-95e3-b4b807fc64c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>921152ed-da8d-4da8-8600-f2917ca04334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>273615a3-6a86-4c0b-adc7-319ccb468412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-msg-required</name>
+      <type>Main</type>
+      <value>Required Fields</value>
+      <webElementGuid>b9505680-213c-4653-94be-6aa61e1002d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>a47f4612-5cbf-43b1-901b-b908332a8be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>2c258774-7778-4983-8c2e-0e18260d07ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CFX TOWER Lt.9
+Jl. Gatot Subroto No.Kav. 35-36, RT.6/RW.3 Kuningan, Kecamatan Setiabudi
+Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950</value>
+      <webElementGuid>87216329-3ae2-4668-80e0-a8485ebe39e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;address&quot;)</value>
+      <webElementGuid>3704664a-dae5-4121-8118-c385f1c2156b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='address']</value>
+      <webElementGuid>8a8d480f-9fcc-42f9-8e13-161c88b90dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='invoice_receipt_address']/div/div/div/div[2]/textarea</value>
+      <webElementGuid>0dae8e68-bbfb-4ef1-8f3f-c786f7272409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::textarea[1]</value>
+      <webElementGuid>0bd09e0b-7c58-4961-89e3-eaffc9247c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::textarea[1]</value>
+      <webElementGuid>e3cc57a1-580d-4759-997d-e5d19aa2b7d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>a57a8e76-958d-4872-83fd-d9d92d0af452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'address' and @name = 'address' and (text() = 'CFX TOWER Lt.9
+Jl. Gatot Subroto No.Kav. 35-36, RT.6/RW.3 Kuningan, Kecamatan Setiabudi
+Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950' or . = 'CFX TOWER Lt.9
+Jl. Gatot Subroto No.Kav. 35-36, RT.6/RW.3 Kuningan, Kecamatan Setiabudi
+Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950')]</value>
+      <webElementGuid>3ec8a3f0-b571-4ca4-9ab7-b1d2dfd9523f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

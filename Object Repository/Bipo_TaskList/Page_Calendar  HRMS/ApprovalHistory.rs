@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ApprovalHistory</name>
+   <tag></tag>
+   <elementGuidId>915ac9ac-d2cd-4a5a-abe6-c52497250e3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='AFB45D86BFAC2DEE']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Approval History&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>49adf9a2-3ee5-46d1-8d7b-8bec20ce51f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hr-menu-item nav-link</value>
+      <webElementGuid>6823779d-5059-4c5d-b627-0820d68959d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/MMSGI/EMP/SSApp/?id=A70748798F4C63A7</value>
+      <webElementGuid>8c04e420-08f5-4560-9295-ab84b04a2c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>url</name>
+      <type>Main</type>
+      <value>/MMSGI/EMP/SSWorkflow/ApprovalHistory</value>
+      <webElementGuid>b0891f8c-6dd8-4bbb-afec-996aa7abc774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval History</value>
+      <webElementGuid>5d212904-1240-4236-b10c-20c218696deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AFB45D86BFAC2DEE&quot;)/li[@class=&quot;nav-item w-100&quot;]/a[@class=&quot;hr-menu-item nav-link&quot;]</value>
+      <webElementGuid>63a9cd30-dbe2-437a-8f4d-5360dcd923f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='AFB45D86BFAC2DEE']/li[2]/a</value>
+      <webElementGuid>d54bf537-d69a-40d2-92a7-d41bf22932c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Approval History')]</value>
+      <webElementGuid>f6044b70-6137-493f-9c24-6fb12bf77b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending Approval'])[1]/following::a[1]</value>
+      <webElementGuid>6fe4ccdb-a526-48ef-a23d-8fe3bb548136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task List'])[1]/following::a[2]</value>
+      <webElementGuid>4681a508-d480-4d12-9634-c3a8ae346e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delegation'])[1]/preceding::a[1]</value>
+      <webElementGuid>17e95a57-d2f1-4c82-b372-cf3285641014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::a[2]</value>
+      <webElementGuid>b1f0b06b-1729-425b-a880-b651c2be691b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approval History']/parent::*</value>
+      <webElementGuid>3fa3efb4-8571-456e-a5de-ce6ac0655ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/MMSGI/EMP/SSApp/?id=A70748798F4C63A7')]</value>
+      <webElementGuid>bd35b733-0179-4010-aacc-8c8723941fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>8dc5da89-fd1a-4b00-b7d3-f81fd0deb2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/MMSGI/EMP/SSApp/?id=A70748798F4C63A7' and (text() = 'Approval History' or . = 'Approval History')]</value>
+      <webElementGuid>9b8295bb-984a-40ed-ac81-f1bcdeb07565</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Izin Usaha</name>
+   <tag></tag>
+   <elementGuidId>d207129b-ad33-453c-8a81-e392fb59c190</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='nav_accordion']/li/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>46642117-0230-4aa8-bb69-7ac90e2c8815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>8b5a6b86-18a4-463b-9f53-e801acb6f1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>903c1a42-6707-4407-b0b3-3fd6322d529f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://test-eprocurement.mmsgroup.co.id/vendor_registration/draft/edit/2e325265-85b8-4a0e-9ac3-6f19740623d6/business_permit</value>
+      <webElementGuid>e06789b4-ae71-4f76-bc37-7acf8b5e5799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Izin Usaha
+                                    </value>
+      <webElementGuid>9d4aec53-26e3-46ad-b03c-565d2b635c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_accordion&quot;)/li[@class=&quot;nav-item has-submenu&quot;]/ul[@class=&quot;submenu collapse show&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>aa8bef07-30de-4cd1-a872-3be0d6f180c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='nav_accordion']/li/ul/li[4]/a</value>
+      <webElementGuid>928c2757-e206-4b7f-a643-4f05d070022a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akta'])[1]/following::a[1]</value>
+      <webElementGuid>f0c72263-8bca-4289-82ce-d83afb5824db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Perusahaan'])[1]/following::a[2]</value>
+      <webElementGuid>c59be4b2-b7f3-4837-8871-b53db6148d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penanggung Jawab (PIC)'])[1]/preceding::a[1]</value>
+      <webElementGuid>3c8a24d0-24e5-4f48-8eda-82851bfd942f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://test-eprocurement.mmsgroup.co.id/vendor_registration/draft/edit/2e325265-85b8-4a0e-9ac3-6f19740623d6/business_permit']</value>
+      <webElementGuid>07a92d36-f29b-4417-a67a-2c0ec9aeba1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[4]/a</value>
+      <webElementGuid>1bffd456-5215-4bf6-a7e5-f7a574d5aef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://test-eprocurement.mmsgroup.co.id/vendor_registration/draft/edit/2e325265-85b8-4a0e-9ac3-6f19740623d6/business_permit' and (text() = '
+                                        Izin Usaha
+                                    ' or . = '
+                                        Izin Usaha
+                                    ')]</value>
+      <webElementGuid>e3e78a28-2e37-475f-b423-5eef3ef9ce5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

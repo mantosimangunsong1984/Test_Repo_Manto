@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Remembering this device allows you to_b10705</name>
+   <tag></tag>
+   <elementGuidId>daf818db-e5ce-4cc8-883f-f07590431f18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.css-pecd59-CheckboxLabel.e19rh9lv4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='3429b48c59f54de4875858453afced9f']/div/div/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Remember this device&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a1d8be7e-6087-4bd0-84b3-abef0eb58e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>tdCheckbox</value>
+      <webElementGuid>f1b3d8ca-73a4-4b78-b5db-65f1a99580f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-pecd59-CheckboxLabel e19rh9lv4</value>
+      <webElementGuid>c8671245-b59e-4d38-9321-25a7e7e0bf79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remember this device</value>
+      <webElementGuid>c43807a7-22c3-40c4-843c-4faeaae44324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3429b48c59f54de4875858453afced9f&quot;)/div[1]/div[@class=&quot;css-7walmt-BaseViewCard e1n9uksj0&quot;]/div[@class=&quot;css-xxac8r-css-css&quot;]/div[@class=&quot;css-u9wie-CheckboxContainer e19rh9lv0&quot;]/label[@class=&quot;css-pecd59-CheckboxLabel e19rh9lv4&quot;]</value>
+      <webElementGuid>5a0c7175-e083-424a-90da-8e06213e099a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3429b48c59f54de4875858453afced9f']/div/div/div[2]/div/label</value>
+      <webElementGuid>b9366b11-1a15-4c8f-932c-f58297526e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remembering this device allows you to sign in more easily and better protect your account'])[1]/following::label[1]</value>
+      <webElementGuid>7b62cf3a-dd61-46a5-927b-546a36925846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Device?'])[1]/following::label[2]</value>
+      <webElementGuid>fdd99e4e-2fbf-4240-89a8-44a37211535f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[1]</value>
+      <webElementGuid>91732c2b-fa3b-4521-a2f5-e98bd7d6185a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip'])[1]/preceding::label[1]</value>
+      <webElementGuid>16ae5aa1-c6be-42d1-a73f-66bcc5c8c9a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remember this device']/parent::*</value>
+      <webElementGuid>3a514d2d-5f66-4b90-9f50-be5c077fee43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>681cc5b8-60cf-407f-b850-c70a1d4f82c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Remember this device' or . = 'Remember this device')]</value>
+      <webElementGuid>ab6abd1a-7170-44a3-9878-8ad887b2d96c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

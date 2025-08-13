@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kompetensi dan Pengalaman Kerja</name>
+   <tag></tag>
+   <elementGuidId>bc8d87bd-61cb-4a41-af64-0f3b70f97fa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='nav_accordion']/li[2]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Kompetensi dan Pengalaman Kerja&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>102ca629-beda-403a-81f1-46e5a0419946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>1b30bf29-7351-43b0-8f4d-cc104b2204ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kompetensi dan Pengalaman Kerja</value>
+      <webElementGuid>bc31f551-020e-47ab-8bec-e8657ad36629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_accordion&quot;)/li[@class=&quot;nav-item has-submenu&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>cecac31e-5cbb-44a0-af52-c846a7e7d90c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='nav_accordion']/li[2]/a/span[2]</value>
+      <webElementGuid>2db9e838-88e1-4cad-bd37-24f4e9909a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penanggung Jawab (PIC)'])[1]/following::span[2]</value>
+      <webElementGuid>576c000e-4686-433f-81db-d480323beb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Izin Usaha'])[1]/following::span[3]</value>
+      <webElementGuid>0ef55337-ffc0-4dcf-9b5c-1c88ca3d5984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sertifikasi'])[1]/preceding::span[1]</value>
+      <webElementGuid>ff01f7e7-5667-4053-a4f6-c13dff28042f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kompetensi'])[1]/preceding::span[2]</value>
+      <webElementGuid>1f1b1293-9ca6-43bc-92af-cc4f4f250e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kompetensi dan Pengalaman Kerja']/parent::*</value>
+      <webElementGuid>672221d2-1cb7-4246-95bc-55bf32cfcb41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span[2]</value>
+      <webElementGuid>71044842-dd40-4b10-9b2c-586c62926aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kompetensi dan Pengalaman Kerja' or . = 'Kompetensi dan Pengalaman Kerja')]</value>
+      <webElementGuid>d699eb0f-d118-4edd-bf9e-2ef07d7e13d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

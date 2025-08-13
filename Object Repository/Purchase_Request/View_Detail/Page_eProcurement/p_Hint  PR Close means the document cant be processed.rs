@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hint  PR Close means the document cant be processed</name>
+   <tag></tag>
+   <elementGuidId>0812937e-f3b0-4de6-889b-436967bea033</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.fw-bolder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='swal2-html-container']/div/ul/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Hint : PR Close means the document can't be processed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>93dcf5df-a8c9-48be-922f-97cd98c4c2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-bolder</value>
+      <webElementGuid>043d32e8-ae35-4c15-8aa6-1907b2e967fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hint : PR Close means the document can't be processed</value>
+      <webElementGuid>08ad49c3-cb26-440c-92e6-904425756acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-html-container&quot;)/div[@class=&quot;bg-light-danger rounded min-w-125px py-3 px-4 mb-3&quot;]/ul[1]/p[@class=&quot;fw-bolder&quot;]</value>
+      <webElementGuid>f9e121ef-1714-4a30-a466-fe750e73b190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='swal2-html-container']/div/ul/p</value>
+      <webElementGuid>00a1607e-d211-4d51-a900-0c9185b046b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning PR Closed !!'])[1]/following::p[1]</value>
+      <webElementGuid>9bb31b73-0c77-4c22-a9b3-9e3fba68dbb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Continue'])[1]/preceding::p[1]</value>
+      <webElementGuid>09822ae1-c54b-49db-8762-fd23dd3ee530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::p[1]</value>
+      <webElementGuid>36e00fe0-9e6c-483f-af8a-8d9461f50eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/p</value>
+      <webElementGuid>8fc6755a-934a-4e19-bd9b-aa75a09ee03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Hint : PR Close means the document can&quot; , &quot;'&quot; , &quot;t be processed&quot;) or . = concat(&quot;Hint : PR Close means the document can&quot; , &quot;'&quot; , &quot;t be processed&quot;))]</value>
+      <webElementGuid>585e4ef8-75e5-4d84-b3bc-9a497a6bff01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

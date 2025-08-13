@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_Bipo_ApprovalHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8ce09d9-fa26-49f5-8a9c-8e6d267a36b3</testCaseGuid>
+</TestCaseEntity>

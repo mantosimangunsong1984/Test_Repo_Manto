@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Clocking Application_cboWorkflowType_DDD_00ff71</name>
+   <tag></tag>
+   <elementGuidId>3352e209-506e-491e-86ac-d282c41f94de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cboWorkflowType_DDD_L_LBI4T0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='cboWorkflowType_DDD_L_LBI4T0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Daily Attendance&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c3db7085-fa93-4b32-9b3a-bba21d48696d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cboWorkflowType_DDD_L_LBI4T0</value>
+      <webElementGuid>3fbc963d-2f98-4aa3-86dd-95aa3303071d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxeListBoxItem_MetropolisBlue dxeListBoxItemHover_MetropolisBlue</value>
+      <webElementGuid>7e33bea4-93d9-477f-9a17-07ba0881821a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daily Attendance</value>
+      <webElementGuid>83372a97-c033-4830-b7bf-393a3da24bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cboWorkflowType_DDD_L_LBI4T0&quot;)</value>
+      <webElementGuid>f80d795c-5894-4da8-8156-355ab0ac8d04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='cboWorkflowType_DDD_L_LBI4T0']</value>
+      <webElementGuid>baab673f-5b35-453c-b04b-df93988b729c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cboWorkflowType_DDD_L_LBT']/tr[5]/td</value>
+      <webElementGuid>0663ae83-594f-4a39-be3e-f02b21537268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clocking Application'])[1]/following::td[1]</value>
+      <webElementGuid>78707aad-bcbc-4100-8966-a7a2879dbdfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Application'])[1]/following::td[2]</value>
+      <webElementGuid>dca6a9f1-f6d2-465d-b389-1df4c17d1dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exit Application'])[1]/preceding::td[1]</value>
+      <webElementGuid>49bcba9f-09dc-45cc-8346-aecbc34262e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exit Interview'])[2]/preceding::td[2]</value>
+      <webElementGuid>becc51c0-4b91-4fd0-8c65-d88f406d2c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>5a249228-9c52-4970-85e5-ee6676b933a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'cboWorkflowType_DDD_L_LBI4T0' and (text() = 'Daily Attendance' or . = 'Daily Attendance')]</value>
+      <webElementGuid>6511cb61-22fe-4199-b16c-fa81390c3dc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

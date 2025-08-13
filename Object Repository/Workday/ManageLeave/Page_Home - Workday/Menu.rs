@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu</name>
+   <tag></tag>
+   <elementGuidId>8aab9502-67dc-4509-9cf6-03bdb625ac46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility Overview'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#wd-icon-justify</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;MENU&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>efa6b4a7-ca4c-46e7-ae06-72e40747d656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>5990fdd4-2d39-499f-bee7-f55ce5540ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>278c3a95-eea8-41c2-9779-e7265b79f4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wd-icon-justify wd-icon</value>
+      <webElementGuid>36ac95b3-9568-495d-95bc-e12f2763c883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>7b797ed9-32e8-41f1-805f-f9a0fcb43183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wd-icon-justify</value>
+      <webElementGuid>3125d2b2-b375-49f5-b2e5-33a8e49ad95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-chrome-container&quot;)/div[@class=&quot;wdappchrome-a&quot;]/div[@class=&quot;wdappchrome-i&quot;]/div[@class=&quot;wdappchrome-k&quot;]/div[@class=&quot;wdappchrome-ae&quot;]/button[@class=&quot;wdappchrome-af&quot;]/div[@class=&quot;wdappchrome-ag&quot;]/div[@class=&quot;wdappchrome-ah&quot;]/svg[@id=&quot;wd-icon-justify&quot;]</value>
+      <webElementGuid>3c7b0a46-fb62-4414-b8e1-79d60d636a31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessibility Overview'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>1068c293-f89a-4d30-8eb1-583d7797443a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>2735875c-4057-4457-8a1e-6bb533410bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>767db1be-d8a1-4c28-a260-78f9aee8a9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications Items'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>c9027bd4-1b2b-4d1e-872f-0ed54db00b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'wd-icon-justify']</value>
+      <webElementGuid>f4049192-2a7e-4fe2-ac8c-c3eb1f5ddd2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

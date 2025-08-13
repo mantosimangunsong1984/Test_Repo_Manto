@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_BulanDesember</name>
+   <tag></tag>
+   <elementGuidId>ea09a467-ec45-43e8-89af-534eec969b32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='f5d404db84534c588816b2d767ddc132-monthpicker-grid']/li[12]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.css-1wp53ag-Tile.e10jwjxk4 > div.css-1owfn3q-LabelContainer.e10jwjxk5 > label.css-1l32bvg-TileLabel.e10jwjxk6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;December 2025&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bf93ec48-9da3-4740-b871-8ab7245a3a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1l32bvg-TileLabel e10jwjxk6</value>
+      <webElementGuid>4d675f07-a702-4ede-83d1-219bf4ab5d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dec</value>
+      <webElementGuid>5c7e76f6-602e-4442-bc7f-8f248c0d9f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f5d404db84534c588816b2d767ddc132-monthpicker-grid&quot;)/li[@class=&quot;css-1wp53ag-Tile e10jwjxk4&quot;]/div[@class=&quot;css-1owfn3q-LabelContainer e10jwjxk5&quot;]/label[@class=&quot;css-1l32bvg-TileLabel e10jwjxk6&quot;]</value>
+      <webElementGuid>23aa6b74-f4c0-4705-bf7e-0a9f331da250</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='f5d404db84534c588816b2d767ddc132-monthpicker-grid']/li[12]/div/label</value>
+      <webElementGuid>51a03035-52ea-4f88-9f9b-972a9e4c84ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov'])[1]/following::label[1]</value>
+      <webElementGuid>83954c02-6bd7-4cd6-a14f-2fda509ee788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oct'])[1]/following::label[2]</value>
+      <webElementGuid>3a82c895-5ee4-42f4-822d-8213187423d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dec']/parent::*</value>
+      <webElementGuid>25fc6da7-e21d-440c-84a7-717573f29830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]/div/label</value>
+      <webElementGuid>3bd0e15e-ac7f-4a3d-a3a6-2f05a9de79db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Dec' or . = 'Dec')]</value>
+      <webElementGuid>27f6846e-f003-46cc-b1b5-4beb0ebe1f70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

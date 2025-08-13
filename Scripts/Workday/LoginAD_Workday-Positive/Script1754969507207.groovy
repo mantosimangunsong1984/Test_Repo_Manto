@@ -33,7 +33,7 @@ WebUI.setEncryptedText(findTestObject('Workday/Page_Sign in to your account/inpu
 
 WebUI.click(findTestObject('Workday/Page_Sign in to your account/input_Sign in_Email-AD'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Workday/Page_Sign in to your account/input_concat(Don, , t show this again)_idBtn_NO'))
 
